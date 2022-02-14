@@ -1,1 +1,1 @@
-# URI-Online-Judge-JS
+# beecrowd-JS
